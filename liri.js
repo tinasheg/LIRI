@@ -39,11 +39,16 @@ function getBands(artist) {
       let eventDate = moment(response.data[0].datetime).format('MM/DD/YYYY');
      
       let results = `
+      concert-this
+      ------------
       "Name of the venue:" ${response.data[0].venue.name}
       Venue location: ${response.data[0].venue.city}
       Date of the Event: ${eventDate}
+
+      ============
       `
-      console.log(results)
+      console.log(results);
+      writeLog(results);
     })
     .catch(function (error) {
       console.log(error);
@@ -68,11 +73,16 @@ function getSongs(songName) {
     // console.log("Album Name: ", data.tracks.items[0].album.name)
 
     let results = `
+    spotify-this-song
+    -----------------
     Artist(s): ${data.tracks.items[0].album.artists[0].name}
     Preview Link: ${data.tracks.items[0].preview_url}
     Album Name: ${data.tracks.items[0].album.name}
+
+    =================
     `
-    console.log(results)
+    console.log(results);
+    writeLog(results);
   });
 }
 
@@ -82,6 +92,8 @@ function getMovies(movieName) {
     .then(function (data) {
       // console.log(data.data); 
       let results = `
+      movie-this
+      ----------
       Title of the movie: ${data.data.Title}
       Year the movie came out: ${data.data.Year}
       IMDB Rating of the movie: ${data.data.Rated}
@@ -89,9 +101,10 @@ function getMovies(movieName) {
       Country where the movie was produced: ${data.data.Country}
       Language of the movie: ${data.data.Language}
       Plot of the movie: ${data.data.Plot}
-      Actors in the movie: ${data.data.Actors}`;
-      console.log(results)
-
+      Actors in the movie: ${data.data.Actors}
+      ===========`;
+      console.log(results);
+      writeLog(results);
     })
     .catch(function (error) {
       console.log(error);
@@ -124,4 +137,10 @@ function doWhatItSays() {
         break;
     }
   });
+}
+
+function writeLog(result) {
+  fs.appendFile('log.txt', `${result}`, function (err) {
+    if (err) throw err;
+  })
 }

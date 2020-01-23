@@ -1,0 +1,74 @@
+
+      movie-this
+      ----------
+      Title of the movie: Titanic
+      Year the movie came out: 1997
+      IMDB Rating of the movie: PG-13
+      Rotten Tomatoes Rating of the movie: 89%
+      Country where the movie was produced: USA
+      Language of the movie: English, Swedish, Italian
+      Plot of the movie: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+      Actors in the movie: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates=================
+      "Name of the venue:" American Airlines Arena
+      Venue location: Miami
+      Date of the Event: 03/09/2020
+      =================
+      concert-this
+      ------------
+      "Name of the venue:" American Airlines Arena
+      Venue location: Miami
+      Date of the Event: 03/09/2020
+
+      ============
+      
+      movie-this
+      ----------
+      Title of the movie: Titanic
+      Year the movie came out: 1997
+      IMDB Rating of the movie: PG-13
+      Rotten Tomatoes Rating of the movie: 89%
+      Country where the movie was produced: USA
+      Language of the movie: English, Swedish, Italian
+      Plot of the movie: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+      Actors in the movie: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+      ===========
+    spotify-this-song
+    -----------------
+    Artist(s): Son Sen Nam
+    Preview Link: https://p.scdn.co/mp3-preview/730f94ff4485a0364890cc76d741fb67599d742a?cid=cbafcf34689d4b6ca09a8a56e1a34723
+    Album Name: It's Over
+
+    =================
+    
+    spotify-this-song
+    -----------------
+    Artist(s): Skillet
+    Preview Link: https://p.scdn.co/mp3-preview/a86af6cfc8543b4acfdb57134147067550b1ef9f?cid=cbafcf34689d4b6ca09a8a56e1a34723
+    Album Name: Awake
+
+    =================
+    
+    spotify-this-song
+    -----------------
+    Artist(s): Billie Eilish
+    Preview Link: null
+    Album Name: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+
+    =================
+    
+      concert-this
+      ------------
+      "Name of the venue:" American Airlines Arena
+      Venue location: Miami
+      Date of the Event: 03/09/2020
+
+      ============
+      
+      concert-this
+      ------------
+      "Name of the venue:" American Airlines Arena
+      Venue location: Miami
+      Date of the Event: 03/09/2020
+
+      ============
+      
