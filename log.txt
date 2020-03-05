@@ -107,3 +107,43 @@
 
     =================
     
+      concert-this
+      ------------
+      "Name of the venue:" American Airlines Arena
+      Venue location: Miami
+      Date of the Event: 03/09/2020
+
+      ============
+      
+      concert-this
+      ------------
+      "Name of the venue:" Gasometer
+      Venue location: Wien
+      Date of the Event: 03/08/2020
+
+      ============
+      
+      concert-this
+      ------------
+      "Name of the venue:" Gasometer
+      Venue location: Wien
+      Date of the Event: 03/08/2020
+
+      ============
+      
+      concert-this
+      ------------
+      "Name of the venue:" American Airlines Arena
+      Venue location: Miami
+      Date of the Event: 03/09/2020
+
+      ============
+      
+    spotify-this-song
+    -----------------
+    Artist(s): Various Artists
+    Preview Link: https://p.scdn.co/mp3-preview/a85890a1d25345ab67b37e3e0241c152f719bf13?cid=cbafcf34689d4b6ca09a8a56e1a34723
+    Album Name: 80s 90s Music Dance Songs: Las Mejores Canciones, Éxitos Disco Y Música De Los 90 Y 80 Para Bailar
+
+    =================
+    
