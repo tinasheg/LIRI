@@ -22,4 +22,4 @@ LIRI uses NodeJS and the following npm packages:
 
 # Demo
 
-![](assets/liri-demo.gif)
+![](assets/liri_demo.gif)
